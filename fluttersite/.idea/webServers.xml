@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6087db70-d264-459e-a81f-e3d25019ea49" name="fluttersite" url="http://localhost">
+        <fileTransfer host="localhost" port="80">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="65a85f74-3a8c-4a53-bfd5-435f12b6a995" name="localhost" url="http://localhost">
+        <fileTransfer mountedRoot="C:\inetpub\wwwroot" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
